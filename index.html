@@ -13,7 +13,6 @@
         integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 </head>
 
-
 <body>
     <script
         src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
@@ -24,22 +23,24 @@
     <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
 
-    <div id="map"></div>
-    <table id="title-and-bar">
-        <tr>
-            <td class="title-and-bar">
-                <div class="map-overlay" id="map-title">
-                    <h3>Oregon Voters By School District</h3>
-                </div>
-            </td>
-        <tr>
-            <td class="title-and-bar">
-                <div id="geocoder" class="geocoder"></div>
-            </td>
-
-        </tr>
-        </tr>
-    </table>
+    <div id="map">
+        <table id="title-and-bar">
+            <tr>
+                <td class="title-and-bar">
+                    <div class="map-overlay" id="map-title">
+                        <h3>Oregon Voters By School District</h3>
+                    </div>
+                </td>
+            <tr>
+                <td class="title-and-bar">
+                    <div id="geocoder" class="geocoder"></div>
+                </td>
+    
+            </tr>
+            </tr>
+        </table>
+    </div>
+    
 
 
 

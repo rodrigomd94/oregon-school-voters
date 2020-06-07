@@ -174,7 +174,7 @@ function createMap() {
                 let party = document.createElement("dt");
                 party.innerHTML = keys_formatted[i];
                 let party_count = document.createElement("dd");
-                party_count.innerHTML = e.features[0].properties[party_keys[i]]+" <small>("+e.features[0].properties[party_keys[i]+"_prcnt"].toFixed(2)+"%)</small>";
+                party_count.innerHTML = e.features[0].properties[party_keys[i]]+" <strong>("+e.features[0].properties[party_keys[i]+"_prcnt"].toFixed(2)+"%)</strong>";
                 popup_list.appendChild(party);
                 popup_list.appendChild(party_count);
             }
