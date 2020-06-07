@@ -1,0 +1,198 @@
+STATEFP,ELSDLEA,GEOID,NAME,LSAD,LOGRADE,HIGRADE,MTFCC,SDTYP,FUNCSTAT,ALAND,AWATER,INTPTLAT,INTPTLON,UNSDLEA,layer,path
+"41","03600","4103600",Harney County School District 4,"00",KG,"08",G5400,,E,"5278048439","210793901","+43.2518663","-118.8745532",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","04170","4104170",Diamond School District 7,"00",KG,"08",G5400,,E,"1630525834","825382","+42.9659106","-118.6061945",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","04290","4104290",Double O School District 28,"00",KG,"08",G5400,,E,"571817653","5759643","+43.2992738","-119.2819339",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","04380","4104380",Drewsey School District 13,"00",KG,"08",G5400,,E,"970489133","8441028","+43.8674392","-118.4093731",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","05020","4105020",South Harney School District 33,"00",KG,"08",G5400,,E,"4420915207","3548745","+42.4190406","-118.4795823",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","05310","4105310",Frenchglen School District 16,"00",KG,"08",G5400,,E,"5907057869","5484439","+42.5195585","-119.1206821",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","06960","4106960",Juntura School District 12,"00",KG,"12",G5400,,E,"1862981754","14894992","+43.7089031","-118.0359276",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","09690","4109690",Pine Creek School District 5,"00",KG,"08",G5400,,E,"759934310","657591","+43.9158286","-118.6361989",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41","11910","4111910",Suntex School District 10,"00",KG,"08",G5400,,E,"3319225914","3422387","+43.4340605","-119.6612906",,tl_2019_41_elsd,E:/Downloads/tl_2019_41_elsd/tl_2019_41_elsd.shp
+"41",,"4100003",Falls City School District 57,"00",KG,"12",G5420,,E,"355145416","1906474","+44.8317294","-123.6091855","00003",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100014",Vale School District 84,"00",KG,"12",G5420,,E,"1699591455","3183199","+44.1197475","-117.4294416","00014",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100015",Gervais School District 1,"00",KG,"12",G5420,,E,"179558776","1858348","+45.0804800","-122.9424527","00015",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100016",Yamhill-Carlton School District 1,"00",KG,"12",G5420,,E,"478364493","889596","+45.3575371","-123.2777040","00016",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100019",Harrisburg School District 7J,"00",KG,"12",G5420,,E,"337150157","3177285","+44.2656550","-123.0645537","00019",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100020",North Santiam School District 29J,"00",KG,"12",G5420,,E,"389338041","2828932","+44.7975498","-122.6577043","00020",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100021",South Wasco County School District 1,"00",KG,"12",G5420,,E,"2606325355","7872144","+45.0949853","-121.1065816","00021",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100023",Hillsboro School District 1J,"00",KG,"12",G5420,,E,"524353847","460734","+45.5572882","-122.9834986","00023",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100040",Knappa School District 4,"00",KG,"12",G5420,,E,"175887745","82505490","+46.1974532","-123.5767604","00040",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100047",Ione School District 2,"00",KG,"12",G5420,,E,"1085850209","0","+45.4910698","-119.8832022","00047",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100048",North Wasco School District 21,"00",KG,"12",G5420,,E,"453268010","15326922","+45.5849590","-121.3145194","00048",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100640",Myrtle Point School District 41,"00",KG,"12",G5420,,E,"1315851523","4049730","+43.0616831","-123.9827615","00640",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4100990",Adel School District 21,"00",KG,"12",G5420,,E,"1410122926","6892209","+42.1230789","-119.7166502","00990",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101020",Adrian School District 61,"00",KG,"12",G5420,,E,"748964235","13893165","+43.6332381","-117.1412385","01020",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101120",Greater Albany School District 8J,"00",KG,"12",G5420,,E,"404281153","6146927","+44.6183605","-123.0802643","01120",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101200",Alsea School District 7J,"00",KG,"12",G5420,,E,"430327311","820590","+44.3649961","-123.6231522","01200",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101230",Amity School District 4J,"00",KG,"12",G5420,,E,"197895518","646710","+45.0930097","-123.1905627","01230",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101350",Annex School District 29,"00",KG,"12",G5420,,E,"430093857","5698756","+44.2073251","-117.2079015","01350",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101470",Arlington School District 3,"00",KG,"12",G5420,,E,"921194728","43094992","+45.6303392","-120.2190308","01470",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101500",Arock School District 81,"00",KG,"12",G5420,,E,"4554225281","5333103","+43.0501681","-117.8428014","01500",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101560",Ashland School District 5,"00",KG,"12",G5420,,E,"947263419","12197089","+42.1900163","-122.5645355","01560",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101590",Ashwood School District 8,"00",KG,"12",G5420,,E,"1110402084","319758","+44.6613371","-120.6140461","01590",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101620",Astoria School District 1,"00",KG,"12",G5420,,E,"587772134","130616324","+46.1068247","-123.7510373","01620",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101660",Athena-Weston School District 29J,"00",KG,"12",G5420,,E,"842122329","187897","+45.7453190","-118.3598234","01660",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101710",Baker School District 5J,"00",KG,"12",G5420,,E,"3386810947","11256329","+44.7823978","-117.7502692","01710",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101740",Burnt River School District 30J,"00",KG,"12",G5420,,E,"2996794732","6786948","+44.4262234","-118.0512644","01740",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101800",Bandon School District 54,"00",KG,"12",G5420,,E,"275154745","174510352","+43.1316531","-124.3899914","01800",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101830",Banks School District 13,"00",KG,"12",G5420,,E,"345021721","120288","+45.6866806","-123.1934306","01830",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101920",Beaverton School District 48J,"00",KG,"12",G5420,,E,"148315987","29221","+45.4957301","-122.8255214","01920",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4101980",Bend-La Pine Administrative School District 1,"00",KG,"12",G5420,,E,"4043742249","91315341","+43.8360961","-121.4163631","01980",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102040",Bethel School District 52,"00",KG,"12",G5420,,E,"78161885","5984129","+44.0921711","-123.2040742","02040",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102160",Blachly School District 090,"00",KG,"12",G5420,,E,"288742455","1299304","+44.1666875","-123.5747347","02160",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102190",Black Butte School District 41,"00",KG,"12",G5420,,E,"497944655","2185343","+44.5036831","-121.7081163","02190",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102310",Brookings-Harbor School District 17,"00",KG,"12",G5420,,E,"1375919894","195027891","+42.1378305","-124.1334329","02310",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102490",Harney County School District 3,"00",KG,"12",G5420,,E,"3390058540","2635138","+43.7200398","-119.1203883","02490",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102580",Butte Falls School District 91,"00",KG,"12",G5420,,E,"886133070","2375822","+42.5498902","-122.4602847","02580",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102610",Camas Valley School District 21J,"00",KG,"12",G5420,,E,"342999081","49164","+42.9567319","-123.7358306","02610",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102640",Canby School District 86,"00",KG,"12",G5420,,E,"226973984","2866142","+45.2330391","-122.6911249","02640",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102780",Cascade School District 5,"00",KG,"12",G5420,,E,"211766731","1121392","+44.8177870","-122.9101936","02780",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102800",Centennial School District 28J,"00",KG,"12",G5420,,E,"38224803","130196","+45.4763604","-122.4792576","02800",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102840",Central School District 13J,"00",KG,"12",G5420,,E,"400698760","3987312","+44.8165079","-123.2312196","02840",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102910",Central Linn School District 552,"00",KG,"12",G5420,,E,"485188971","2094317","+44.3994766","-123.0367881","02910",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4102940",Central Point School District 6,"00",KG,"12",G5420,,E,"596405964","4640159","+42.5082673","-122.9772141","02940",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103260",Clatskanie School District 6J,"00",KG,"12",G5420,,E,"298439822","28040557","+46.1005464","-123.2097095","03260",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103265",Rainier School District 13,"00",KG,"12",G5420,,E,"294422767","19678847","+46.0144280","-122.9747953","03265",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103270",Colton School District 53,"00",KG,"12",G5420,,E,"496997111","174670","+45.0754721","-122.3358577","03270",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103330",Condon School District 25J,"00",KG,"12",G5420,,E,"2122160194","3819725","+45.2530414","-120.2108054","03330",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103390",Coquille School District 8,"00",KG,"12",G5420,,E,"419847676","2899730","+43.2203103","-124.1163066","03390",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103420",Corbett School District 39,"00",KG,"12",G5420,,E,"465361667","20595279","+45.5685304","-122.0445034","03420",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103480",Corvallis School District 509J,"00",KG,"12",G5420,,E,"490181609","4441629","+44.5524805","-123.2919605","03480",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103540",Cove School District 15,"00",KG,"12",G5420,,E,"517334263","539926","+45.3543012","-117.7564700","03540",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103660",Coos Bay School District 9,"00",KG,"12",G5420,,E,"1019230953","184739923","+43.3902729","-124.0462653","03660",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103690",Creswell School District 40,"00",KG,"12",G5420,,E,"183931959","243087","+43.9102069","-123.0348605","03690",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103720",Crook County School District,"00",KG,"12",G5420,,E,"9479188666","21991790","+44.0633649","-120.3832837","03720",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103780",Crow-Applegate-Lorane Sd 66,"00",KG,"12",G5420,,E,"659704266","187082","+43.8723587","-123.3554649","03780",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103840",Culver School District 4,"00",KG,"12",G5420,,E,"839476568","9947067","+44.4997319","-121.3268316","03840",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103860",Dallas School District 2,"00",KG,"12",G5420,,E,"609926428","283302","+44.9417824","-123.7223681","03860",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103940",David Douglas School District 40,"00",KG,"12",G5420,,E,"28043640","49289","+45.4978793","-122.5382188","03940",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103960",Days Creek School District 15,"00",KG,"12",G5420,,E,"2070049717","542381","+42.9872545","-122.7825805","03960",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4103990",Dayton School District 8,"00",KG,"12",G5420,,E,"146507297","3064435","+45.1939760","-123.0652565","03990",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104020",Dayville School District 16J,"00",KG,"12",G5420,,E,"1138764763","32070","+44.3851264","-119.4962730","04020",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104350",North Douglas School District 22,"00",KG,"12",G5420,,E,"508105397","56517","+43.7597629","-123.4036530","04350",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104410",Dufur School District 29,"00",KG,"12",G5420,,E,"1287051074","10304068","+45.4368880","-121.1338078","04410",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104500",Eagle Point School District 9,"00",KG,"12",G5420,,E,"1686205022","11726156","+42.7354527","-122.9164807","04500",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104530",Echo School District 5,"00",KG,"12",G5420,,E,"553634082","738","+45.6819388","-119.2326637","04530",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104590",Elgin School District 23,"00",KG,"12",G5420,,E,"952997545","391729","+45.6660646","-117.8942184","04590",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104620",Elkton School District 34,"00",KG,"12",G5420,,E,"782062384","8815193","+43.6412027","-123.6042323","04620",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104700",Estacada School District 108,"00",KG,"12",G5420,,E,"1825577824","9704525","+45.0986475","-122.0560139","04700",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104740",Eugene School District 4J,"00",KG,"12",G5420,,E,"382746369","12554526","+44.0785136","-123.2753693","04740",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4104950",Fern Ridge School District 28J,"00",KG,"12",G5420,,E,"542671432","21081821","+44.0138359","-123.5223997","04950",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105080",Enterprise School District 21,"00",KG,"12",G5420,,E,"2112918821","1015176","+45.7675945","-117.1601225","05080",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105100",Siuslaw School District 97J,"00",KG,"12",G5420,,E,"571903030","259099142","+44.0106633","-124.0842489","05100",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105160",Forest Grove School District 15,"00",KG,"12",G5420,,E,"491423118","4268549","+45.5570098","-123.2581874","05160",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105250",Fossil School District 21J,"00",KG,"12",G5420,,E,"1619448653","1161384","+44.9231589","-120.2196697","05250",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105430",Gaston School District 511J,"00",KG,"12",G5420,,E,"157427671","1225609","+45.4481100","-123.2750916","05430",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105610",Gladstone School District 115,"00",KG,"12",G5420,,E,"5986347","95157","+45.3856499","-122.5928265","05610",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105640",Glendale School District 77,"00",KG,"12",G5420,,E,"774478307","95541","+42.7751544","-123.3548262","05640",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105670",Glide School District 12,"00",KG,"12",G5420,,E,"3318963366","19450579","+43.2802522","-122.6249232","05670",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105760",Central Curry School District 1,"00",KG,"12",G5420,,E,"2028906940","368611908","+42.5303375","-124.1796764","05760",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4105910",Grants Pass School District 7,"00",KG,"12",G5420,,E,"62885739","458505","+42.4293338","-123.3443389","05910",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106000",Gresham-Barlow School District 1J,"00",KG,"12",G5420,,E,"129084034","725277","+45.4655943","-122.3908811","06000",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106120",Harper School District 66,"00",KG,"12",G5420,,E,"3038276985","448758","+43.7959757","-117.7611438","06120",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106270",Helix School District 1,"00",KG,"12",G5420,,E,"578342290","5869","+45.9095477","-118.7904971","06270",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106300",Hermiston School District 8,"00",KG,"12",G5420,,E,"398054330","28263505","+45.8608244","-119.2169919","06300",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106510",Hood River County School District 1,"00",KG,"12",G5420,,E,"1352203435","29040409","+45.5117753","-121.6559762","06510",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106600",Huntington School District 16J,"00",KG,"12",G5420,,E,"853181783","16706326","+44.4549121","-117.3293124","06600",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106630",Imbler School District 11,"00",KG,"12",G5420,,E,"308592388","0","+45.4985087","-117.9862505","06630",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106710",Jefferson School District 14J,"00",KG,"12",G5420,,E,"144293079","3777958","+44.7493954","-123.0275932","06710",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106740",Jefferson County School District 509J,"00",KG,"12",G5420,,E,"3796788047","15366593","+44.8022764","-121.2606462","06740",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106750",Jewell School District 8,"00",KG,"12",G5420,,E,"693512027","302443","+45.9030945","-123.5574721","06750",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106780",John Day School District 3,"00",KG,"12",G5420,,E,"3781862032","530236","+44.2137154","-119.1141867","06780",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106820",Jordan Valley School District 3,"00",KG,"12",G5420,,E,"3797491610","48730177","+43.0672871","-117.2747209","06820",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106870",Joseph School District 6,"00",KG,"12",G5420,,E,"3475117564","12099512","+45.4357264","-116.9015554","06870",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106900",Three Rivers School District,"00",KG,"12",G5420,,E,"4423622542","5623550","+42.3491489","-123.5215715","06900",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4106930",Junction City School District 69,"00",KG,"12",G5420,,E,"422754775","1979034","+44.2061790","-123.3070442","06930",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107020",Klamath County School District,"00",KG,"12",G5420,,E,"15203477079","502260489","+42.6837613","-121.6461682","07020",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107080",Klamath Falls City Schools,"00",KG,"12",G5420,,E,"188162731","1426100","+42.2640991","-121.8038001","07080",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107200",La Grande School District 1,"00",KG,"12",G5420,,E,"2060618140","675506","+45.2662958","-118.2891073","07200",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107230",Lake Oswego School District 7J,"00",KG,"12",G5420,,E,"33479066","2266191","+45.4123049","-122.6991542","07230",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107280",Lakeview School District 7,"00",KG,"12",G5420,,E,"4627827649","259637865","+42.3653864","-120.4003130","07280",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107380",Lebanon Community School District 9,"00",KG,"12",G5420,,E,"625021035","3151517","+44.5322410","-122.8210443","07380",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107500",Lincoln County School District,"00",KG,"12",G5420,,E,"2802922962","608909992","+44.6066258","-123.9130127","07500",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107530",Long Creek School District 17,"00",KG,"12",G5420,,E,"2152066729","18184","+44.7773512","-119.0063990","07530",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107590",Lowell School District 71,"00",KG,"12",G5420,,E,"809780271","27524704","+43.9411012","-122.5839671","07590",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107710",Mapleton School District 32,"00",KG,"12",G5420,,E,"652501606","1456340","+44.0789022","-123.8424478","07710",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107740",Marcola School District 79J,"00",KG,"12",G5420,,E,"302449509","0","+44.2142994","-122.7868321","07740",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107880",McDermitt School District 51,"00",KG,"12",G5420,,E,"7185158478","282522","+42.3071136","-117.6338573","07880",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4107980",McKenzie School District 68,"00",KG,"12",G5420,,E,"1981925368","13743913","+44.1224463","-122.1506889","07980",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108010",McMinnville School District 40,"00",KG,"12",G5420,,E,"305489237","127197","+45.2119166","-123.2820914","08010",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108040",Medford School District 549,"00",KG,"12",G5420,,E,"949436846","4246518","+42.2053810","-122.9932690","08040",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108100",Santiam Canyon School District 129J,"00",KG,"12",G5420,,E,"2094408169","17531962","+44.7133366","-122.1936128","08100",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108160",Milton-Freewater School District 7,"00",KG,"12",G5420,,E,"927913310","47030","+45.9380393","-118.2690376","08160",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108280",Mitchell School District 55,"00",KG,"12",G5420,,E,"1643398452","694283","+44.5177771","-120.0161252","08280",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108310",Molalla River School District 35,"00",KG,"12",G5420,,E,"538132925","676827","+45.0844293","-122.5192688","08310",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108430",Monroe School District 1J,"00",KG,"12",G5420,,E,"339807258","1111210","+44.3502692","-123.3924742","08430",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108460",Monument School District 8,"00",KG,"12",G5420,,E,"1398100106","53512","+44.7604868","-119.4806565","08460",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108520",Morrow School District 1,"00",KG,"12",G5420,,E,"4267842380","44372276","+45.3869477","-119.5259175","08520",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108550",Mount Angel School District 91,"00",KG,"12",G5420,,E,"34593525","88697","+45.0653929","-122.7958424","08550",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108650",Neah-Kah-Nie School District 56,"00",KG,"12",G5420,,E,"1025276457","171603118","+45.6788700","-123.7371662","08650",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108700",Nestucca Valley School District 101J,"00",KG,"12",G5420,,E,"965332543","223552896","+45.2455382","-123.7604604","08700",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108720",Newberg School District 29J,"00",KG,"12",G5420,,E,"209110886","1876748","+45.3207227","-122.9824492","08720",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108820",North Bend School District 13,"00",KG,"12",G5420,,E,"468961120","128839595","+43.5187797","-124.1486544","08820",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108830",North Clackamas School District 12,"00",KG,"12",G5420,,E,"104166865","2146113","+45.4263655","-122.5519442","08830",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108880",North Marion School District 15,"00",KG,"12",G5420,,E,"113138664","602493","+45.2164059","-122.8145496","08880",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4108940",North Powder School District 8J,"00",KG,"12",G5420,,E,"622483333","1977657","+45.0533247","-118.0396013","08940",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109000",Nyssa School District 26,"00",KG,"12",G5420,,E,"952471136","8752127","+43.7777878","-117.2994213","09000",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109120",Oakland School District 1,"00",KG,"12",G5420,,E,"698624514","4182662","+43.4465982","-123.3919808","09120",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109150",Oakridge School District 76,"00",KG,"12",G5420,,E,"2175218537","41169424","+43.7085078","-122.2768999","09150",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109270",Ontario School District 8,"00",KG,"12",G5420,,E,"319547455","4957736","+44.0588435","-117.0140695","09270",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109330",Oregon City School District 62,"00",KG,"12",G5420,,E,"202138940","2773763","+45.3314353","-122.5128817","09330",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109430",Paisley School District 11,"00",KG,"12",G5420,,E,"3555355781","133284671","+42.7897884","-120.7853255","09430",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109480",Parkrose School District 3,"00",KG,"12",G5420,,E,"29137707","5073618","+45.5685716","-122.5620702","09480",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109510",Pendleton School District 16,"00",KG,"12",G5420,,E,"1961190011","4583615","+45.6172535","-118.6200325","09510",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109530",Perrydale School District 21,"00",KG,"12",G5420,,E,"141077254","284489","+45.0178623","-123.3017335","09530",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109600",Philomath School District 17J,"00",KG,"12",G5420,,E,"530289742","809598","+44.5957682","-123.4770613","09600",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109630",Phoenix-Talent School District 4,"00",KG,"12",G5420,,E,"358030079","53663","+42.1632200","-122.8117840","09630",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109660",Pilot Rock School District 2,"00",KG,"12",G5420,,E,"1608959092","103091","+45.4092940","-118.8535816","09660",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109720",Pine-Eagle School District 61,"00",KG,"12",G5420,,E,"1652080708","18794161","+44.8900891","-117.1323641","09720",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109750",Pinehurst School District 94,"00",KG,"12",G5420,,E,"242989792","187663","+42.0961079","-122.3534106","09750",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109870",Pleasant Hill School District 1,"00",KG,"12",G5420,,E,"277699931","1279099","+43.9054748","-122.8664390","09870",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4109960",Plush School District 18,"00",KG,"12",G5420,,E,"3531836833","112664194","+42.4238067","-119.7767205","09960",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110020",Port Orford-Langlois School District 2J,"00",KG,"12",G5420,,E,"914484169","419843651","+42.8422294","-124.4027957","10020",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110040",Portland School District 1J,"00",KG,"12",G5420,,E,"350627993","27232139","+45.5584071","-122.7274106","10040",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110080",Powers School District 31,"00",KG,"12",G5420,,E,"532935292","730784","+42.8012883","-124.0124053","10080",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110110",Prairie City School District 4,"00",KG,"12",G5420,,E,"3315574378","1259805","+44.4924642","-118.5390746","10110",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110200",Prospect School District 59,"00",KG,"12",G5420,,E,"646185659","10157907","+42.8308193","-122.4246084","10200",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110350",Redmond School District 2J,"00",KG,"12",G5420,,E,"1421449743","1925468","+44.2176464","-121.3732182","10350",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110410",Reedsport School District 105,"00",KG,"12",G5420,,E,"1194427650","183674996","+43.7389235","-123.9078868","10410",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110520",Reynolds School District 7,"00",KG,"12",G5420,,E,"65190858","20471723","+45.5520968","-122.4412559","10520",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110530",Riddle School District 70,"00",KG,"12",G5420,,E,"360307235","240125","+42.8916338","-123.5119292","10530",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110560",Riverdale School District 51J,"00",KG,"12",G5420,,E,"4407531","511705","+45.4454998","-122.6613922","10560",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110680",Rogue River School District 35,"00",KG,"12",G5420,,E,"653520480","731200","+42.5854261","-123.1092812","10680",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110710",Roseburg School District 4,"00",KG,"12",G5420,,E,"856406484","8384775","+43.2820696","-123.4698347","10710",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110820",Salem-Keizer School District 24J,"00",KG,"12",G5420,,E,"439215495","6168721","+44.9449465","-123.0280604","10820",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110890",Oregon Trail School District 46,"00",KG,"12",G5420,,E,"1103098952","5930682","+45.3239840","-121.9904531","10890",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4110980",Scappoose School District 1J,"00",KG,"12",G5420,,E,"340374735","34462764","+45.7750291","-122.9178778","10980",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111040",Scio School District 95,"00",KG,"12",G5420,,E,"278252876","389320","+44.6836948","-122.7558049","11040",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111100",Seaside School District 10,"00",KG,"12",G5420,,E,"513077069","244594586","+45.9094109","-123.8912039","11100",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111220",Sheridan School District 48J,"00",KG,"12",G5420,,E,"163111051","163105","+45.1438782","-123.4000475","11220",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111250",Sherman School District 1,"00",KG,"12",G5420,,E,"2157662766","19617472","+45.3992158","-120.6785124","11250",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111290",Sherwood School District 88J,"00",KG,"12",G5420,,E,"98083973","16246","+45.3539900","-122.8452815","11290",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111400",North Lake School District 14,"00",KG,"12",G5420,,E,"7953731775","11902992","+43.2978269","-120.6056860","11400",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111450",Silver Falls School District 4J,"00",KG,"12",G5420,,E,"671058931","794160","+44.9584168","-122.6897009","11450",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111490",Sisters School District 6,"00",KG,"12",G5420,,E,"702917368","482078","+44.3085420","-121.6091702","11490",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111580",South Lane School District 45J,"00",KG,"12",G5420,,E,"1742451406","12009512","+43.6614615","-122.8421870","11580",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111610",South Umpqua School District 19,"00",KG,"12",G5420,,E,"644783494","50423","+42.9746000","-123.2853590","11610",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111640",Spray School District 1,"00",KG,"12",G5420,,E,"1155404725","0","+44.7807752","-119.8181365","11640",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111670",Springfield School District 19,"00",KG,"12",G5420,,E,"469496530","5053934","+44.0891223","-122.8422781","11670",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111720",St. Helens School District 502,"00",KG,"12",G5420,,E,"260532741","14023811","+45.9118983","-122.9043443","11720",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111760",St. Paul School District 45,"00",KG,"12",G5420,,E,"107975550","3095674","+45.2195094","-122.9484929","11760",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111790",Stanfield School District 61,"00",KG,"12",G5420,,E,"156165539","139424","+45.8104259","-119.1586160","11790",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111940",Sutherlin School District 130,"00",KG,"12",G5420,,E,"349055798","1402763","+43.4375821","-123.1140728","11940",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4111970",Sweet Home School District 55,"00",KG,"12",G5420,,E,"2636342748","26434073","+44.3711535","-122.2897426","11970",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112240",Tigard-Tualatin School District 23J,"00",KG,"12",G5420,,E,"62246624","10496","+45.4051652","-122.7863608","12240",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112320",Tillamook School District 9,"00",KG,"12",G5420,,E,"876500061","200642836","+45.4567272","-123.7526299","12320",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112360",Troy School District 54,"00",KG,"12",G5420,,E,"190064216","0","+45.9468773","-117.5259356","12360",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112540",Ukiah School District 80,"00",KG,"12",G5420,,E,"1247552105","19696","+45.1056562","-118.8551207","12540",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112600",Umatilla School District 6,"00",KG,"12",G5420,,E,"58437500","8270380","+45.8987053","-119.3466404","12600",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112690",Union School District 5,"00",KG,"12",G5420,,E,"886608084","2462782","+45.1286446","-117.6518423","12690",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112930",Vernonia School District 47J,"00",KG,"12",G5420,,E,"675308338","232604","+45.8986794","-123.2221692","12930",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4112990",Wallowa School District 12,"00",KG,"12",G5420,,E,"2369734728","1077064","+45.6369759","-117.5708304","12990",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113080",Warrenton-Hammond School District 30,"00",KG,"12",G5420,,E,"154003432","200552188","+46.1608804","-123.8765080","13080",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113170",West Linn School District 3J,"00",KG,"12",G5420,,E,"107416735","4622972","+45.3362910","-122.7083109","13170",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113350",Willamina School District 30J,"00",KG,"12",G5420,,E,"672845783","223451","+45.1139191","-123.5875097","13350",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113490",Winston-Dillard School District 116,"00",KG,"12",G5420,,E,"626949378","25846","+43.0919576","-123.5423966","13490",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113530",Woodburn School District 103,"00",KG,"12",G5420,,E,"80684043","197914","+45.1442901","-122.8577301","13530",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4113650",Yoncalla School District 32,"00",KG,"12",G5420,,E,"411939551","244130","+43.5865635","-123.2701894","13650",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
+"41",,"4199997",School District Not Defined,"00",PK,"12",G5420,,F,"1034","44132641","+41.9930425","-120.3285814","99997",tl_2019_41_unsd,E:/Downloads/tl_2019_41_unsd/tl_2019_41_unsd.shp
