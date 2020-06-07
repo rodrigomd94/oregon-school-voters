@@ -67,7 +67,7 @@ dd {
 .mapboxgl-popup-content {
     padding: 5px;
     width: fit-content;
-    max-height: 45vh;
+    max-height: 48vh;
     overflow-y:auto;
     max-width:500px;
     z-index:500;
