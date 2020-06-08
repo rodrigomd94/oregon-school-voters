@@ -4,7 +4,7 @@ var radioOption = [];
 for (item of radioButtons) {
     radioOption.push(item);
 }
-var toggle_layers = ["genders", "ages", "parties"];
+var toggle_layers = ["genders", "ages", "parties","voters"];
 radioOption.forEach(function (e) {
     e.addEventListener("click", function () {
         var active_layer = e.value;
@@ -120,6 +120,30 @@ function createMap() {
             "fill-outline-color": "black"
         }
     });
+
+    map.addLayer({
+        id: "voters",
+        type: "fill",
+        source: "voters",
+        layout: {},
+        filter: ["has", "avg_age"],
+        paint: {
+            "fill-color": {
+                property: "voter_count",
+                stops: [
+                    [500, "#feedde"],
+                    [2000, "#fdd0a2"],
+                    [5000, "#fdae6b"],
+                    [10000, "#fd8d3c"],
+                    [30000, "#f16913"],
+                    [50000, "#d94801"],
+                    [100000, "#8c2d04"],
+                ]
+            },
+            "fill-opacity": 0.8,
+            "fill-outline-color": "black"
+        }
+    });
     //-----------adding and filtering affiliation layers-----
     map.addLayer({
         id: "parties",
@@ -137,6 +161,7 @@ function createMap() {
 
     map.setLayoutProperty("genders", "visibility", "none");
     map.setLayoutProperty("parties", "visibility", "none");
+    map.setLayoutProperty("ages", "visibility", "none");
 
     /*-----------------------------------------------------------------------
     ------------------------------Creating popups----------------------------
@@ -181,6 +206,20 @@ function createMap() {
 
         }
     }
+    /* 
+    ------POPUP for the voters layer ---------------
+    */
+   map.on("click", "voters", function (e) {
+    create_popup(e);
+});
+// Change the cursor to a pointer when the mouse is over the states layer.
+map.on("mouseenter", "voters", function () {
+    map.getCanvas().style.cursor = "pointer";
+});
+// Change it back to a pointer when it leaves.
+map.on("mouseleave", "voters", function () {
+    map.getCanvas().style.cursor = "";
+});
 
     /* 
     ------POPUP for the ages layer ---------------
@@ -228,7 +267,27 @@ function createMap() {
     });
 
     /*------------------------------------------------------------------ 
-    ---------------------------------ages legend ------------------*/
+ ---------------------------------voters legend ------------------*/
+ var intervals_voters = ['<500', '2,000', '5,000', '10,000', '30,000', '50,000','100,000+'];
+ var colors_voters = ['#feedde', '#fdd0a2', '#fdae6b', '#fd8d3c', '#f16913', '#d94801','#d94801'];
+ for (i = 0; i < intervals_voters.length; i++) {
+     var interval = intervals_voters[i];
+     var color = colors_voters[i];
+     var item = document.createElement('div');
+     var key = document.createElement('span');
+     key.className = 'legend-key';
+     key.style.backgroundColor = color;
+
+     var value = document.createElement('span');
+     value.className = 'legend-value';
+     value.innerHTML = interval;
+     item.appendChild(key);
+     item.appendChild(value);
+     voters_legend.appendChild(item);
+
+ }
+
+    /*---------------------------------ages legend ------------------*/
     var intervals_age = ['42-45', '46-49', '50-53', '54-57', '58-61', '62-66'];
     var colors_age = ['#c7e9b4', '#7fcdbb', '#41b6c4', '#1d91c0', '#225ea8', '#0c2c84'];
     for (i = 0; i < intervals_age.length; i++) {
@@ -250,7 +309,6 @@ function createMap() {
     //--------- gender legend----------------------------------
 
     //......................female............
-    [47, "#e31a1c"], [48, "#fd8d3c"], [49, "#fecc5c"], [50, "#ffffcc"], [53, "#a1dab4"], [56, "#41b6c4"], [60, "#225ea8"]
     var intervals_female = ['50%', '51%', '52%', '53%'];
     var colors_female = ['"#ffffcc"', '#fecc5c', '#fd8d3c', '#e31a1c'];
     for (i = 0; i < intervals_female.length; i++) {
